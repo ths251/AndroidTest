@@ -24,4 +24,12 @@
         app:srcCompat="@drawable/thorsteinn"
         tools:layout_editor_absoluteY="66dp" />
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        tools:layout_editor_absoluteX="156dp"
+        tools:layout_editor_absoluteY="423dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
